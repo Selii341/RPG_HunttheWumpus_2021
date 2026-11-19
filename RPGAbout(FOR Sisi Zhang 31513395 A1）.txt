@@ -1,0 +1,23 @@
+Trimester      ：3
+Unit           :MCD4720
+My name        :Sisi Zhang
+My ID          :31513395
+Date           :11/18/2020
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Monash College
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       The Amazing PRG Character Generator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  All good Role-Playing Games (RPG) have a
+  range of characters from the players may
+  choose to represent them within different 
+  game worlds.
+
+  The Amazing PRG Character Generator allows
+  players to quickly creates a character of
+  a requested class , with random attributes.
+
+  It's the perfect inspiration for your next
+  PRG adventure.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

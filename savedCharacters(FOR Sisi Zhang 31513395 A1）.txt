@@ -1,0 +1,10 @@
+
+Fighter
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Strength: 8 [The the minimum Strength is 4 and the random value is 4 ]
+Endurance: 8 [The the minimum Strength is 3 and the random value is 5 ]
+Dexterity: 2 [The the minimum Strength is 2 and the random value is 0 ]
+Intelligence: 3 [The the minimum Strength is 0 and the random value is 3 ]
+Wisdom: 6 [The the minimum Strength is 2 and the random value is 4 ]
+Charisma: 4 [The the minimum Strength is 2 and the random value is 2 ]
+
